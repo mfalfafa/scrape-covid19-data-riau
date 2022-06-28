@@ -1,0 +1,301 @@
+{
+    "Pekanbaru": {
+        "city url": "https://corona.riau.go.id/pekanbaru",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "199",
+                "Jumlah Orang di Periksa": "169",
+                "Kumulatif Spesimen Hari Sebelumnya": "333.563",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "12",
+                "Isolasi di RS": "5",
+                "Selesai Isolasi": "51.105",
+                "Meninggal": "212"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "8",
+                "Rawat di RS": "0",
+                "Sembuh": "61.823",
+                "Meninggal": "1.379"
+            }
+        }
+    },
+    "Dumai": {
+        "city url": "https://corona.riau.go.id/dumai",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "46",
+                "Jumlah Orang di Periksa": "42",
+                "Kumulatif Spesimen Hari Sebelumnya": "65.971",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "3.612",
+                "Meninggal": "10"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "11.261",
+                "Meninggal": "262"
+            }
+        }
+    },
+    "Bengkalis": {
+        "city url": "https://corona.riau.go.id/bengkalis",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "73",
+                "Jumlah Orang di Periksa": "64",
+                "Kumulatif Spesimen Hari Sebelumnya": "98.050",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "1",
+                "Selesai Isolasi": "14.988",
+                "Meninggal": "31"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "9.246",
+                "Meninggal": "440"
+            }
+        }
+    },
+    "Siak": {
+        "city url": "https://corona.riau.go.id/siak",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "31",
+                "Jumlah Orang di Periksa": "27",
+                "Kumulatif Spesimen Hari Sebelumnya": "91.451",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "9.823",
+                "Meninggal": "45"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "10.129",
+                "Meninggal": "333"
+            }
+        }
+    },
+    "Meranti": {
+        "city url": "https://corona.riau.go.id/meranti",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "3",
+                "Jumlah Orang di Periksa": "2",
+                "Kumulatif Spesimen Hari Sebelumnya": "16.632",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "6.244",
+                "Meninggal": "22"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "2.210",
+                "Meninggal": "84"
+            }
+        }
+    },
+    "Pelalawan": {
+        "city url": "https://corona.riau.go.id/pelalawan",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "28",
+                "Jumlah Orang di Periksa": "25",
+                "Kumulatif Spesimen Hari Sebelumnya": "30.350",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "10.059",
+                "Meninggal": "17"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "3.590",
+                "Meninggal": "199"
+            }
+        }
+    },
+    "Indragiri Hilir": {
+        "city url": "https://corona.riau.go.id/inhil",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "72",
+                "Jumlah Orang di Periksa": "65",
+                "Kumulatif Spesimen Hari Sebelumnya": "34.574",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "15.287",
+                "Meninggal": "33"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "5.960",
+                "Meninggal": "198"
+            }
+        }
+    },
+    "Indragiri Hulu": {
+        "city url": "https://corona.riau.go.id/inhu",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "11",
+                "Jumlah Orang di Periksa": "7",
+                "Kumulatif Spesimen Hari Sebelumnya": "57.343",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "6.598",
+                "Meninggal": "68"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "1",
+                "Rawat di RS": "0",
+                "Sembuh": "6.946",
+                "Meninggal": "219"
+            }
+        }
+    },
+    "Kuantan Singingi": {
+        "city url": "https://corona.riau.go.id/kuansing",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "18",
+                "Jumlah Orang di Periksa": "12",
+                "Kumulatif Spesimen Hari Sebelumnya": "35.463",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "12.366",
+                "Meninggal": "17"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "5.854",
+                "Meninggal": "176"
+            }
+        }
+    },
+    "Kampar": {
+        "city url": "https://corona.riau.go.id/kampar",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "38",
+                "Jumlah Orang di Periksa": "26",
+                "Kumulatif Spesimen Hari Sebelumnya": "92.642",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "1",
+                "Selesai Isolasi": "18.869",
+                "Meninggal": "65"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "1",
+                "Rawat di RS": "0",
+                "Sembuh": "9.748",
+                "Meninggal": "432"
+            }
+        }
+    },
+    "Rokan Hulu": {
+        "city url": "https://corona.riau.go.id/rohul",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "21",
+                "Jumlah Orang di Periksa": "17",
+                "Kumulatif Spesimen Hari Sebelumnya": "29.137",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "12.985",
+                "Meninggal": "12"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "5.559",
+                "Meninggal": "372"
+            }
+        }
+    },
+    "Rokan Hilir": {
+        "city url": "https://corona.riau.go.id/rohil",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "27",
+                "Jumlah Orang di Periksa": "22",
+                "Kumulatif Spesimen Hari Sebelumnya": "45.798",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "5.002",
+                "Meninggal": "14"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "0",
+                "Rawat di RS": "0",
+                "Sembuh": "5.444",
+                "Meninggal": "228"
+            }
+        }
+    },
+    "Daerah Lainnya": {
+        "city url": "https://corona.riau.go.id/daerah_lainnya",
+        "cases": {
+            "spesimen": {
+                "Jumlah Spesimen di Periksa": "162",
+                "Jumlah Orang di Periksa": "121",
+                "Kumulatif Spesimen Hari Sebelumnya": "359.105",
+                "Positif": "0"
+            },
+            "suspek": {
+                "Isolasi Mandiri": "0",
+                "Isolasi di RS": "0",
+                "Selesai Isolasi": "314",
+                "Meninggal": "17"
+            },
+            "terkonfirmasi": {
+                "Isolasi Mandiri": "2",
+                "Rawat di RS": "0",
+                "Sembuh": "8.270",
+                "Meninggal": "116"
+            }
+        }
+    }
+}

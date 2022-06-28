@@ -1,0 +1,1 @@
+Scrape data of Covid-19 cases in every city of Riau province.
